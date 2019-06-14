@@ -1,0 +1,80 @@
+# Privacy
+
+• Disables tracking shit from windows
+• Disables web search from windows search
+• Disables app suggestions
+• Disables background apps (if apps can download or update even when they aren't used)
+• Disables shit from lock screen
+• Disables location tracking
+• Disables map updates
+• Disables feedback
+• Disables targeted advertisements
+• Disables cortana
+• Disables error reporting to Microsoft
+• Disables P2P win updates (makes sure you dont share your downloaded updates to other leechers)
+• Disables auto logging (events logging etc.)
+• Disables diagnosis tracking
+• Disables WAP push service (idk what this is but probably unnecessary)
+
+# Services
+
+• Disables admin shares (remote file sharing)
+• Sets network to private (undetectable in lan)
+• Enables controlled folder access
+• Disables auto restarts after updates
+• Disables home groups (more restrictions on network sharing)
+• Disables shared experiences
+• Disables remote assistance
+• Disables remote desktop
+• Disables autoplay for new discs etc
+• Disables autorun
+• Enables storage sense (cleans cache and unused unnecessary shit up periodically)
+• Disables superfetch (preloading used apps to ram)
+• Disables hibernation
+• Disables fast startup
+
+# UI
+
+• Disables sticky keys
+• Enables detailed view on task manager
+• Shows file operations when transfering files
+• Hides search box in taskbar
+• Hides task view button
+• Hides people icon
+• Shows tray icons
+• Shows known extensions
+• Shows hidden files
+• Hides sync notifications (one drive shit)
+• Hides recent shortcuts
+• Sets explorer to open this pc
+• Hides documents from this pc sidebar
+• Hides videos from this pc sidebar
+• Hides 3dObjects from this pc sidebar
+• Disable thumbsDB (big size creating trash shit)
+
+# App tweaks
+
+• Disables and uninstalls onedrive
+• Uninstalls msft bloat
+• Uninstalls third party bloat
+• Disables xbox features
+• Disables adobe flash
+• Uninstalls media player
+• Uninstalls work folders (used for corporate pc sharing shit)
+• Sets photo viewer assoc
+• Adds photo viewer to open with context menu
+• Disables search app in store
+
+
+• Disables extra services
+• Installs shit from NINITE
+• Deletes temp files
+• Cleans WinSXS
+• Downloads Shutup10
+• Removes unneeded shit
+• Disables compatibility appraiser
+
+• Disables connected standby
+• Disables hibernation
+• Enables big desktop icons
+• Disables GDP win services
